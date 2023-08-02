@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @NicholasU-01
 - 👀 I’m interested in: web devolpment & Python.
-- 🌱 I’m currently learning: effecient ways to use OOP.
+- 🌱 I’m currently learning: how to use object-oriented programming properly.
 - 💞️ I’m looking to collaborate on: nothing right now :(
 - 📫 How to reach me: email me at my personal email address.
-
+/n
 - :snake: I learning to code with Python!
 
 <!---
