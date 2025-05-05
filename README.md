@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on: nothing right now :(
 - 📢 How to reach me: email me at my personal email address.
 <br />
+
 - 🐍 Python is my main language!
 - 🖱️ I also code in HTML / CSS / JS
 - 🔥 I'm learning Java!
